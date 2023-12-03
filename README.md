@@ -7,8 +7,10 @@ Here's a bit about me:
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](lien_vers_votre_page_Python)
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](lien_vers_votre_page_C)
 [![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=c%2b%2b&logoColor=00599C)](lien_vers_votre_page_C++)
-[![C#](https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp)](lien_vers_votre_page_CSharp)
-[![VHDL](https://img.shields.io/badge/-VHDL-000?&logo=VHDL)](lien_vers_votre_page_VHDL)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](lien_vers_votre_page_Java)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)](lien_vers_votre_page_Vue.js)
+[![VHDL](https://img.shields.io/badge/-VHDL-000?&logo=VHDL&logoColor=5382A1)](lien_vers_votre_page_VHDL)
+
 
 [![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)](lien_vers_votre_page_Windows)
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)](lien_vers_votre_page_Linux)
